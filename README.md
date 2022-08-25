@@ -3,7 +3,7 @@ The code repository for our paper "Interpreting Song Lyrics with an Audio-Inform
 
 ## Dataset
 
-Please refer to https://zenodo.org/record/6519264.
+Please refer to https://zenodo.org/record/7019124.
 
 ## Data Structure
 
