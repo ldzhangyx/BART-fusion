@@ -4,7 +4,7 @@ sys.path.append('..')
 from torch.utils.data import Dataset
 import pickle
 import random
-from mymodel import LyricsCommentData
+from . import LyricsCommentData
 
 class LyricsCommentsDataset(Dataset):
 
