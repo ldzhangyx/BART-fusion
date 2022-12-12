@@ -3,7 +3,7 @@ The code repository for our paper "Interpreting Song Lyrics with an Audio-Inform
 
 ## Dataset
 
-Please refer to https://zenodo.org/record/7019124.
+Please refer to https://zenodo.org/record/7429711.
 
 ## Checkpoints
 
